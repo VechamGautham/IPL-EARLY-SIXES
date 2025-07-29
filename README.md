@@ -29,7 +29,7 @@ I’d like to give a big thank you to those who helped make this project happen.
 - [Kaggle: IPL Complete Dataset (2008–2020)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
 - [OddsPortal.com](https://www.oddsportal.com), where I scraped the odds data to bring this analysis to life.
 
-## 🎯 Why I Started This Project
+## Why I Started This Project
 
 Back when I was in my third year, I first heard about [Stake.com](https://stake.com)’s “Early Six, You Win” promotion. Honestly, I didn’t believe it at first—it sounded too good to be true. But then I saw my friends making some money with it during the 2024 IPL season, when the promotion covered the first four overs. Curious, I gave it a shot and played for about seven matches, and yeah, I made a bit of cash! 
 
