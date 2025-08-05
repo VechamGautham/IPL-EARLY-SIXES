@@ -126,7 +126,7 @@ $$
 
 ## Conclusion
 
-Upon analyzing, I saw that if I lose using my strategy, I would lose about 7 percent of what I put in, but if I win, I would make mostly 70 to 100 percent, which is really good. Also, after looking at the frequency of six hits each season, I found only 2 seasons where not a single match worked with our strategy, but in the remaining seasons, even the lowest percentage would still give us profit. Thereby, it can be said based on the data that it’s profitable to bet. For more information, check my `six_hit_analysis.ipynb` file—I’ve included detailed markdown for each graph and code too. This project was a fun dive into data, but remember—betting is risky, and the house always has an edge! 
+Upon analyzing, I saw that if I lose using my strategy, I would lose about 7 percent of what I put in, but if I win, I would make mostly 93 percent, which is really good. Also, after looking at the frequency of six hits each season, I found only 2 seasons where not a single match worked with our strategy, but in the remaining seasons, even the lowest percentage would still give us profit. Thereby, it can be said based on the data that it’s profitable to bet. For more information, check my `six_hit_analysis.ipynb` file—I’ve included detailed markdown for each graph and code too. This project was a fun dive into data, but remember—betting is risky, and the house always has an edge! 
 
 ## The Main Concluding Showdown: Should You Bet or Not?
 
